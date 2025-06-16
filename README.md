@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 QuikDB Final Project
 This project is a Node.js application utilizing QuikDB to manage user and order . It demonstrates how to use QuikDB's schema and record management features while also implementing authentication with JSON Web Tokens (JWT).
 
@@ -126,3 +127,6 @@ Musa Habeeblai Ajani
 GitHub: beebozy
 Email: musahabeeblai@gmail.com
 Feel free to contribute or open an issue if you encounter any bugs or have suggestions for improvements!
+=======
+# quikdbFinalProject
+>>>>>>> 059713ced82df826c0363b0466cd7bf9c133dccf
